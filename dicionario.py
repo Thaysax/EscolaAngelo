@@ -22,7 +22,8 @@ for nome in listaNomes:
 
     #Anatomia
     # lista[indice] = Valor
-    # dicionario[chave] = Valor
+    # dicionario[chave] = Valor 2
+
 
     
 
