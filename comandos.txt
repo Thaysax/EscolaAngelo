@@ -1,3 +1,5 @@
+OK - Professor Parisotto
+
 # como vincular um repositório do GITHUB com o Visual Code
 1 no GITHUB abra o repositório e clique no botao CODE -> local -> copiar link do 
 repositório
