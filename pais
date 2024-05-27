@@ -1,0 +1,9 @@
+pais = {'Nome': 'Alagoas', 'Capital': 'Maceió'}
+
+print(pais)
+
+print(pais['Capital'])
+
+pais.clear()
+
+print(pais)
